@@ -15,9 +15,9 @@ description:
 
 ## Git version control
 
-Tijdens de zesde week van mijn stage kwam ik voor een onverwachte uitdaging te staan — eentje die me uiteindelijk heel wat heeft bijgeleerd over Git en het belang van proper branch-beheer. Ik had namelijk een grote fout gemaakt: ik was vergeten mijn branches regelmatig up-to-date te houden met de master.
+Tijdens de zesde week van mijn stage kwam ik voor een onverwachte uitdaging te staan, eentje die me uiteindelijk heel wat heeft bijgeleerd over Git en het belang van proper branch-beheer. Ik had namelijk een grote fout gemaakt: ik was vergeten mijn branches regelmatig up-to-date te houden met de master.
 
-Dat probleem kwam pas echt aan het licht toen mijn stagebegeleider mijn werk wilde nakijken… en dat simpelweg niet kon, omdat mijn branches achterliepen op de nieuwste wijzigingen. Oude code, conflicten, ontbrekende updates — allemaal omdat ik mijn branches niet regelmatig had gesynchroniseerd.
+Dat probleem kwam pas echt aan het licht toen mijn stagebegeleider mijn werk wilde nakijken en dat simpelweg niet kon, omdat mijn branches achterliepen op de nieuwste wijzigingen. Oude code, conflicten, ontbrekende updates allemaal omdat ik mijn branches niet regelmatig had gesynchroniseerd.
 
 Wat ik heb bijgeleerd
 1. Het belang van stashing

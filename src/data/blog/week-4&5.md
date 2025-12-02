@@ -2,8 +2,8 @@
 author: Ho-Ping Keung
 pubDatetime: 2025-10-19T15:22:00Z
 modDatetime: 2025-10-19T16:52:45.934Z
-title: Week 4&5
-slug: week-4&5
+title: Week 4 & 5
+slug: week-4 & 5
 featured: true
 draft: false
 tags:
